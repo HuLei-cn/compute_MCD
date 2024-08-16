@@ -16,7 +16,7 @@ pip install pymcd
 ```
 This package (pymcd) computes Mel Cepstral Distortion (MCD) in python.
 
-## Example
+# Example
 single voice comparison
 ```python
 from pymcd.mcd import Calculate_MCD
@@ -69,7 +69,7 @@ print(average_mcd(vc_trg_refs, vc_conv_synths))
 print(average_mcd(vc2_trg_refs, vc2_conv_synths))
 ```
 
-## Reference
+# Reference
 https://pypi.org/project/pymcd/
 
 https://github.com/SamuelBroughton/Mel-Cepstral-Distortion
