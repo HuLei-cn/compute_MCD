@@ -1,4 +1,4 @@
-# compute_MCD
+# Compute_MCD
 
 Mel Cepstral Distortion (MCD), which is used to assess the quality of the generated speech by comparing the discrepancy between generated and ground-truth speeches.
 
